@@ -6,7 +6,7 @@ A complete, feature-rich, interactive learning dashboard built with **Streamlit*
 
 ##  Features
 
-1. **📚 Main Dashboard**:
+1. ** Main Dashboard**:
    - Track academic analytics: study streak, active learning time, total AI sessions, and average quiz scores.
    - Interactive bar chart showing study activity patterns.
    - Personalized learning recommendations based on recently studied topics.
