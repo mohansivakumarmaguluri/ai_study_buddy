@@ -6,33 +6,33 @@ A complete, feature-rich, interactive learning dashboard built with **Streamlit*
 
 ##  Features
 
-1. ** Main Dashboard**:
+1. # Main Dashboard :
    - Track academic analytics: study streak, active learning time, total AI sessions, and average quiz scores.
    - Interactive bar chart showing study activity patterns.
    - Personalized learning recommendations based on recently studied topics.
 
-2. # Concept Explainer**:
+2. # Concept Explainer :
    - User inputs any query or concept (e.g. *Photosynthesis*, *QuickSort*).
    - Generates simple explanations (with real-world analogies), deep technical details, key takeaways, and interview prep questions.
    - Saves queries to study history.
    - Single-click downloads to plain text (`.txt`) or formatted PDF (`.pdf`).
 
-3. # Notes Summarizer**:
+3. # Notes Summarizer :
    - Supports pasting long notes or uploading a PDF chapter directly.
    - Outputs a concise executive summary, key vocabulary concepts, exam-focus points, and a checkable revision list.
    - Exports the summary sheet.
 
-4. # Interactive Quiz Generator**:
+4. # Interactive Quiz Generator :
    - Instantly generates 10 MCQs based on a topic and chosen difficulty (Beginner, Intermediate, Advanced).
    - Interactive grading interface: submit your answers, see correct/incorrect feedback (green/red), review correct answers, and read thorough rationale explanations.
    - Automatically saves score progress to the analytics dashboard.
 
-5. # Flashcard Generator**:
+5. # Flashcard Generator :
    - Generates a customized deck of study flashcards.
    - Features a styled CSS card panel showing the concept (Front) with a "Flip Card" trigger to reveal the answer/definition (Back).
    - Horizontal pagination buttons to cycle through the deck.
 
-6. # Study Assistant Chat**:
+6. # Study Assistant Chat :
    - Multi-turn conversation assistant to answer follow-up queries.
    - Save or clear chat conversations.
 
